@@ -30,3 +30,5 @@ Try to change the blur method if *gaussian* doesn't work on your computer.
 ### Polybar
 
 I'm getting some issues with the wifi module. All `Wifi Disconnected Icons` and `Wifi Ramp Signal Icons` Fontawsome icons doesn't display even I'm using a solid fontawsome font for the wifi bar. I'll try to fix it asap.
+
+[^1]: Send me a message on [my twitter](https://twitter.com/0ji54n) if you get any other issue. 
