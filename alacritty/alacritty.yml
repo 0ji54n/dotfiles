@@ -1,0 +1,25 @@
+window:
+   dimensions:
+     columns: 100 
+     lines: 30
+   decoration: none 
+   startup_mode: Windowed
+   opacity: 1.0 
+   font:
+     normal:
+       family: Hack Nerd Font
+       style: Regular
+     bold:
+       family: Hack Nerd Font
+       style: Bold
+     italic:
+       family: Hack Nerd Font
+       style: Italic  
+     size: 3.0    
+   size: 11.0
+   offset:
+     y:5
+   shell:
+     program: /bin/zsh
+     args:
+       - --login
