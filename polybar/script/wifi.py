@@ -5,7 +5,7 @@ def out(command):
     return result.stdout
 
 my_output = out("curl -i google.com")
-if len(my_output) > 1:
-    print(' ')
-else:
+if "Could not resolve host" in my_output:
     print('睊')
+else:
+    print(' ')
