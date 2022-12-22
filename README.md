@@ -29,6 +29,6 @@ With all the files from this repo in your `.config` folder, everything should lo
 
 5. **Polybar**
 
-- I'm getting some issues with the wifi module. All `Wifi Disconnected Icons` and `Wifi Ramp Signal Icons` Fontawsome icons doesn't display even I'm using a solid fontawsome font for the wifi bar. I'll try to fix it asap.
+- I'm getting some issues with the wifi module. All `Wifi Disconnected Icons` and `Wifi Ramp Signal Icons` Fontawesome icons doesn't display even I'm using a solid fontawsome font for the wifi bar. I'll try to fix it asap.
 
 Send me a message on [my twitter](https://twitter.com/0ji54n) if you get any other issue. 
